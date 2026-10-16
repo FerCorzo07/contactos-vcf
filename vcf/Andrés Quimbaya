@@ -4,7 +4,6 @@ N:Quimbaya;Andrés;;;
 FN:Andrés Quimbaya
 ORG:Cabaña Gourmet
 TITLE:Vendedor Integral
-TEL;TYPE=CELL,VOICE:+573128699919
-EMAIL;TYPE=WORK,PREF:ventas.sabanasur@cabanagourmet.co
-REV:2026-04-12T00:02:00Z
+TEL;TYPE=CELL:+573128699919
+EMAIL:ventas.sabanasur@cabanagourmet.co
 END:VCARD
